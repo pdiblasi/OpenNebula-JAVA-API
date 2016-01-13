@@ -13,7 +13,7 @@ import org.apache.xmlrpc.client.XmlRpcClientConfigImpl;
 
 /**
  *
- * @author paolo
+ * @author pdiblasi
  */
 public class OneCluster {
     private XmlRpcClient client = new XmlRpcClient();
